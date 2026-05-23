@@ -10,7 +10,7 @@ This repository serves as a numerical validation toolkit for scalable bi-level m
 ├── models/             # Core mathematical formulations (MATLAB + Gurobi)
 ├── algorithms/         # Implementations of decomposition methods (C&CG, Benders)
 ├── data/               # Network parameters and standard test cases (e.g., IEEE 33/69-bus)
-├── examples/           # MATLAB Live Scripts (.mlx) and main scripts demonstrating step-by-step execution
+├── examples/           # MATLAB main scripts demonstrating step-by-step execution
 ├── README.md           # Project overview, methodology, and setup instructions
 └── LICENSE             # MIT License
 ```
